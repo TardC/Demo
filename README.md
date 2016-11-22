@@ -1,2 +1,2 @@
 # Demo
-Just daily practice domos.
+Just daily practice demos.
